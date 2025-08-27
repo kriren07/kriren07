@@ -12,4 +12,3 @@ jeg håper at jeg lærer hvordan jeg kan lage media som er fengene og ser bra ut
 
 gjennestad sin side: [Gjennestad vgs](https://www.gjennestadvgs.no "Gjennestadvgs")
 
-kris
