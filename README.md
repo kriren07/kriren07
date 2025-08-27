@@ -9,3 +9,5 @@ Jeg valgte IM siden jeg er veldig interisert i begge fagene. jeg er veldig inter
 
 **bold text** Hva håper jeg og lære?
 jeg håper at jeg lærer hvordan jeg kan lage media som er fengene og ser bra ut. via hvordan jeg filmer og histore forteling. og i it delen ønsker jeg og lære hvordan jeg koder sånn at jeg kan lage mye forskjelig.
+
+gjennestad sin side: [Link with title](https://www.gjennestadvgs.no "Gjennestadvgs")
